@@ -1,9 +1,10 @@
 const edad = parseInt(prompt("Ingrese su edad"));
 
-if (edad >= 18 ) 
+const frase = "";
+while(palabra) 
     {
-     document.write("Puede conducir");
+        frase = edad;
+        palabra=prompt("ingrese otra palabra")
     }
-else {
-    document.write("La edad ingresada no es valida para conducir");
-}    
+
+    document.write(frase)
